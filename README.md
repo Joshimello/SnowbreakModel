@@ -25,3 +25,6 @@ all for personal fun use
 - [x] wp01b_001a - Tension Headache
 - [x] wp01b_001b - Artic Fox
 - [x] wp01b_001b2 - Frigatebird
+- [x] wp01b_001c - 100 Battle Veteran
+- [x] wp01b_002b - Atrium Frontline
+- [ ] wp01b_003b - ???
