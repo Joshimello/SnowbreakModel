@@ -5,7 +5,12 @@ mining a cool gun gatcha game assets for fun
 I only rearrange parts and apply texture  
 learning and research purposes only  
 seasun games own everything I think  
-all for personal fun use  
+all for personal fun use
+
+I might take some time  
+due to the files misleading names  
+and due to me doing this only in my free time  
+thanks for your understandings uwu  
 
 ### Files
 **Submachine Guns**
