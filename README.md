@@ -19,9 +19,9 @@ thanks for your understandings uwu
 - [x] wp01a_001b2 - Work-in-Progress
 - [x] wp01a_001c - Stardust Memory
 - [x] wp01a_002a - Safety Line
-- [x] wp01a_002b - Yellow Safety Line (Unlisted)
-- [x] wp01a_002b2 - Pink Safety Line (Unlisted)
-- [x] wp01a_002c - ???
+- [x] wp01a_002b - Unlisted
+- [x] wp01a_002b2 - Unlisted
+- [x] wp01a_002c - Unlisted
 - [ ] wp01a_502a - ???
 - [ ] wp01a_503a - ???
 - [ ] wp01a_504a - ???
@@ -33,3 +33,7 @@ thanks for your understandings uwu
 - [x] wp01b_001c - 100 Battle Veteran
 - [x] wp01b_002b - Atrium Frontline
 - [ ] wp01b_003b - ???
+- [x] wp01c_001a - Napoleon in Black
+- [x] wp01c_001b - Hypochlorous Acid
+- [x] wp01c_001b2 - Unlisted
+- [x] wp01c_001c - Unlisted
