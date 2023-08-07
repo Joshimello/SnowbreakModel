@@ -37,3 +37,6 @@ thanks for your understandings uwu
 - [x] wp01c_001b - Hypochlorous Acid
 - [x] wp01c_001b2 - Unlisted
 - [x] wp01c_001c - Unlisted
+- [x] wp01d_001a - Iron Guardian
+- [x] wp01d_001b - The Past's Sigh
+- [x] wp01d_001b2 - Homecoming
