@@ -42,4 +42,9 @@ thanks for your understandings uwu
 - [x] wp01d_001b2 - Homecoming
 - [x] wp01d_001c - 
 - [x] wp01d_002b - 
-- [x] wp01d_003b - 
+- [x] wp01d_003b -
+
+**Sniper Rifles**
+- [x] wp02a_001a - The Wrench
+- [x] wp02a_001b - Site of Racket
+- [x] wp02a_001b2 - 
