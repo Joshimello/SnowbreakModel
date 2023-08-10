@@ -32,7 +32,7 @@ thanks for your understandings uwu
 - [x] wp01b_001b2 - Frigatebird
 - [x] wp01b_001c - 100 Battle Veteran
 - [x] wp01b_002b - Atrium Frontline
-- [ ] wp01b_003b - 
+- [x] wp01b_003b - 
 - [x] wp01c_001a - Napoleon in Black
 - [x] wp01c_001b - Hypochlorous Acid
 - [x] wp01c_001b2 - 
