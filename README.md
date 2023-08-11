@@ -48,3 +48,8 @@ thanks for your understandings uwu
 - [x] wp02a_001a - The Wrench
 - [x] wp02a_001b - Site of Racket
 - [x] wp02a_001b2 - 
+- [x] wp02a_001c - Horn of the Orca
+- [x] wp02a_002a - Mulberry
+- [x] wp02a_002b - 
+- [x] wp02a_002b2 - Mark of Mesmer
+- [x] wp02a_002c - Olympus
